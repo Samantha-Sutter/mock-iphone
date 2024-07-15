@@ -4,7 +4,7 @@ This project is a mock iPhone site designed to showcase the iPhone 15 Pro with a
 
 ## Screenshot
 
-![Screenshot of the Final Product](images/screenshot%20.png)
+![Screenshot of the Final Product](images/screenshot.png)
 
 ## Technologies Used
 
